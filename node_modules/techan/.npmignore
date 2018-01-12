@@ -1,0 +1,10 @@
+.grunt
+.idea
+.vagrant
+*.iml
+bower_components
+build
+!build/version.js
+dist/*.zip
+node_modules
+test/html/gist
