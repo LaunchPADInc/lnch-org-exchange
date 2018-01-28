@@ -1,1 +1,0 @@
-Ichimoku Cloud calculation and rendering demo.
