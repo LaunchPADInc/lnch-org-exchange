@@ -105,4 +105,4 @@ docker build -t techan.js .
 docker run --rm -it -p 8000:8000 techan.js
 ```
 
-As above, browse to [http://localhost:8000/examples/](http://localhost:8000/examples/) to see the examples.
+As above, browse to [http://localhost:8000/examples/](http://localhost:8000/examples/) to see examples.
