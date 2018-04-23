@@ -26,7 +26,7 @@ let NavBar = injectIntl(React.createClass({
           <li>
             <Link to="/btc/buy" activeClassName="active">
               <i className="icon-bitcoin"></i>{' '}
-              <span className="hidden-xs">Token Swaps</span>
+              <span className="hidden-xs">Tokens</span>
             </Link>
           </li>
           <li>
