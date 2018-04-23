@@ -39,7 +39,7 @@ Installation
 Start by cloning this repository.
 
 ```
-git clone https://github.com/LaunchPADInc/exchange-lnchpad-com
+git clone https://github.com/LaunchPADInc/lnch-org-exchange
 ```
 
 
